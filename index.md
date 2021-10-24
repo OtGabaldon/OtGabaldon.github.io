@@ -1,3 +1,10 @@
+<p align="center">
+  <p>Email: gabaldonot@gmail.com</p>
+  <p>Phone: 1.407.437.5584</p>
+  <p>Web: otgabaldontorrents.com</p>
+</p>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OtGabaldon/OtGabaldon.guthub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
