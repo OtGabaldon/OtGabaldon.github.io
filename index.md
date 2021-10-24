@@ -1,8 +1,21 @@
-<p align="center">
-  <p>Email: gabaldonot@gmail.com</p>
-  <p>Phone: 1.407.437.5584</p>
-  <p>Web: otgabaldontorrents.com</p>
-</p>
+
+  <p align="center">Email: gabaldonot@gmail.com</p>
+  <p align="center">Phone: 1.407.437.5584</p>
+  <p align="center">Web: otgabaldontorrents.com</p>
+  
+## About Me
+
+Software engineer that develops maintable, low-latency and scalable web solutions for a variety of consumer and business problems. I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to a variety of marketplaces. These systems allow business to reliably and efficiently on-board new use cases using minimal engineering resources. My work has encompassed international product launches that utilize serverless architecture and scalable databases. Providing new features to millions of customers and access to billions of data points for internal business metrics; That further allow the business to create useful solutions using data driven decisions and maximize customer impact.
+
+## Experience
+
+## Education
+
+## Projects
+
+## Outside work
+
+
 
 
 ## Welcome to GitHub Pages
