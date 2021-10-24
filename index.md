@@ -1,7 +1,7 @@
 
-  <p align="center">Email: gabaldonot@gmail.com</p>
-  <p align="center">Phone: 1.407.437.5584</p>
-  <p align="center">Web: otgabaldontorrents.com</p>
+  <p align="center">**Email**: gabaldonot@gmail.com</p>
+  <p align="center">**Phone**: 1.407.437.5584</p>
+  <p align="center">**Web**: otgabaldontorrents.com</p>
   
 ## About Me
 
