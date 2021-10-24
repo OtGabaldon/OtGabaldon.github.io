@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Ot Gabaldon Torrents
-description: Software Engineer  \n test
+description: Software Engineer
+github:
+  is_project_page: false
