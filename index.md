@@ -5,7 +5,7 @@
   
 ## About Me
 
-<p align="center">Software engineer that develops maintable, low-latency and scalable web solutions for a variety of consumer and businesses problems. I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to a variety of marketplaces. These systems allow business to reliably and efficiently on-board new use cases using minimal engineering resources. My work has encompassed international product launches that utilize serverless architecture and scalable databases. Providing new features to millions of customers and access to billions of data points for internal business metrics. Further allowing the business to create useful solutions using data driven decisions that maximize customer impact.</p>
+Software engineer that develops maintable, low-latency and scalable web solutions for a variety of consumer and businesses problems. I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to a variety of marketplaces. These systems allow business to reliably and efficiently on-board new use cases using minimal engineering resources. My work has encompassed international product launches that utilize serverless architecture and scalable databases. Providing new features to millions of customers and access to billions of data points for internal business metrics. Further allowing the business to create useful solutions using data driven decisions that maximize customer impact.
 
 ## Experience
 
