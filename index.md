@@ -10,8 +10,9 @@
 ## Experience
 
 ### &nbsp;&nbsp; **Amazon**
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present 
- I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9's of reliability. My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API's, to helping design and implement customer facing tooling for Amazon product managment. These projects involved working cross-team in order to provide easily exandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate needs of the entire organization. Languages used are Javascript, Java, python and Pearl/Mason. Frameworks include React, internal CI piplines and AWS.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present   
+
+<p align="center">I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9's of reliability. My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API's, to helping design and implement customer facing tooling for Amazon product managment. These projects involved working cross-team in order to provide easily exandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate needs of the entire organization. Languages used are Javascript, Java, python and Pearl/Mason. Frameworks include React, internal CI piplines and AWS.</p>
  
 ### &nbsp;&nbsp; **Trilogy Education**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Teachers Assistant** | Sept 2018 - Jan 2019 
