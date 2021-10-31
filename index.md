@@ -36,4 +36,6 @@
 
 ## Outside work
 
+<p align="center">When I'm not working I enjoy learning about different concepts in physics, philosophy and Machine Learning. I also like to weightlift and rockclimb. When im not in the gym I enjoy exploring the trails and mountains that inhabit Colorado. Always looking for my next adventure.</p>
+
 
