@@ -12,17 +12,17 @@ Software engineer that develops maintable, low-latency and scalable web solution
 ### &nbsp;&nbsp; **Amazon**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present   
 
-<p align="center">I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9's of reliability. My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API's, to helping design and implement customer facing tooling for Amazon product managment. These projects involved working cross-team in order to provide easily exandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate needs of the entire organization. Languages used are Javascript, Java, python and Pearl/Mason. Frameworks include React, internal CI piplines and AWS.</p>
+I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9's of reliability. My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API's, to helping design and implement customer facing tooling for Amazon product managment. These projects involved working cross-team in order to provide easily exandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate needs of the entire organization. Languages used are Javascript, Java, python and Pearl/Mason. Frameworks include React, internal CI piplines and AWS.
  
 ### &nbsp;&nbsp; **Trilogy Education**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Teachers Assistant** | Sept 2018 - Jan 2019 
  
- <p align="center">During my time at Trilogy I assisted the Proffesor in educating students about data visualization in python. My responsibilities included monitoring and answering questions from students, grading homework and helping guide the direction of the class. The contents taught in this class include python basics, how to use external libraries to help with data visualization ( Pandas, Numpy, D3.js ) and how to deploy python modules to public API's in order to create pleasant data visualization tools for end customers. My area of expertise in this class was machine learning; helping the proffesor and students gain an intutive insight on back propagation, convolutional networks and common machine learning pitfalls ( Overfitting, incorrect seperation of training and test data, normalization mistakes  )</p>
+During my time at Trilogy I assisted the Proffesor in educating students about data visualization in python. My responsibilities included monitoring and answering questions from students, grading homework and helping guide the direction of the class. The contents taught in this class include python basics, how to use external libraries to help with data visualization ( Pandas, Numpy, D3.js ) and how to deploy python modules to public API's in order to create pleasant data visualization tools for end customers. My area of expertise in this class was machine learning; helping the proffesor and students gain an intutive insight on back propagation, convolutional networks and common machine learning pitfalls ( Overfitting, incorrect seperation of training and test data, normalization mistakes  )
  
 ### &nbsp;&nbsp; **StratEx**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Front End Intern** | Jun 2017 - Aug 2017
- 
-  <p align="center">During this internship I learned the basics of managing production code. This included version control, CI pipelines, and working with other engineers on a shared codebase. I helped implement configuration pages for business customers for our SaaS HR webapp using MVC .NET frameworks. Which helped me learn the seperation of business logic, data models and rendering logic. I was particularly helpful in communicating technical concepts to the non-techincal members of our team. Turning complex concepts into something understandable for the business team members.</p>
+
+During this internship I learned the basics of managing production code. This included version control, CI pipelines, and working with other engineers on a shared codebase. I helped implement configuration pages for business customers for our SaaS HR webapp using MVC .NET frameworks. Which helped me learn the seperation of business logic, data models and rendering logic. I was particularly helpful in communicating technical concepts to the non-techincal members of our team. Turning complex concepts into something understandable for the business team members.
 
 
 ## Education
@@ -36,6 +36,6 @@ Software engineer that develops maintable, low-latency and scalable web solution
 
 ## Outside work
 
-<p align="center">When I'm not working I enjoy learning about different concepts in physics, philosophy and Machine Learning. I also like to weightlift and rockclimb. When im not in the gym I enjoy exploring the trails and mountains that inhabit Colorado. Always looking for my next adventure.</p>
+When I'm not working I enjoy learning about different concepts in physics, philosophy and Machine Learning. I also like to weightlift and rockclimb. When im not in the gym I enjoy exploring the trails and mountains that inhabit Colorado. Always looking for my next adventure.
 
 
