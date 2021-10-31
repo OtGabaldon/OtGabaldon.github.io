@@ -27,6 +27,14 @@
 
 ## Education
 
+### &nbsp;&nbsp; **University Of Central Florida**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Computer Science** | Fall 2016 - Spring 2019
+ 
+ * Member of white paper reading group for Machine Learning methods related to Neural Networks
+ * Improved efficiency in [research package](https://github.com/OtGabaldon/soundecology) in sound ecology
+ * Helped develope the first iteration of [sound ecology tooling package](https://github.com/jonathanbeever/mangrove)
+
+
 ## Projects
 
 ## Outside work
