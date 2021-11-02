@@ -21,8 +21,8 @@ Creates systems that can be easily debugged and maintained by other engineers, a
 
 * Projects  involved working cross-team in order to provide easily expandable solutions while serving current customer needs.
 * Improved error handling and logging on large scale systems
-* Seperated and moved business logic from front-end rendering layers and moved them behind internal API's
-* Designed and implemented product managment tools for Amazon digital subscriptions
+* Separated and moved business logic from front-end rendering layers and moved them behind internal API's
+* Designed and implemented product management  tools for Amazon digital subscriptions
 * Languages used are Javascript, Java, Python and Pearl/Mason.
 * Frameworks include React, internal CI pipelines and AWS.
 
@@ -62,6 +62,6 @@ Creates systems that can be easily debugged and maintained by other engineers, a
 
 # Outside work
 
-When I'm not working I enjoy learning about different concepts in physics, philosophy and Machine Learning. I also like to weightlift and rockclimbing. When I'm not in the gym I enjoy exploring the trails and mountains that inhabit Colorado. Always looking for my next adventure.
+When I'm not working I enjoy learning about different concepts in physics, philosophy and Machine Learning. I also like to weightlift and rock climb. When I'm not in the gym I enjoy exploring the trails and mountains around Colorado. Always looking for my next adventure.
 
 
