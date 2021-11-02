@@ -14,8 +14,10 @@ My work has encompassed international product launches that utilize serverless a
 
 ### &nbsp;&nbsp; **Amazon**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present 
+<p align="center">
+  <i>I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9’s of reliability.</i>
+</p>
 
-<i align="center" >I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9’s of reliability.</i>
  
 My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API’s, to helping design and implement customer facing tooling for Amazon product management. These projects involved working cross-team in order to provide easily expandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate the needs of the entire organization. Languages used are Javascript, Java, Python and Pearl/Mason. Frameworks include React, internal CI pipelines and AWS. 
  
