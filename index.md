@@ -5,14 +5,18 @@
   
 ## About Me
 
-Software engineer that develops maintainable, low-latency, and scalable web solutions for a variety of consumer and business problems. I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to a variety of marketplaces. These systems allow businesses to reliably and efficiently on-board new use cases using minimal engineering resources. My work has encompassed international product launches that utilize serverless architecture and scalable databases, providing new features to millions of customers and access to billions of data points for internal business metrics. This further allowed the business to create useful solutions using data driven decisions that maximized customer impact.
+Software engineer that develops maintainable, low-latency, and scalable web solutions for a variety of consumer and business problems. I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to a variety of marketplaces. These systems allow businesses to reliably and efficiently on-board new use cases using minimal engineering resources.
+  
+My work has encompassed international product launches that utilize serverless architecture and scalable databases, providing new features to millions of customers and access to billions of data points for internal business metrics. This further allowed the business to create useful solutions using data driven decisions that maximize customer impact.
 
 ## Experience
 
 ### &nbsp;&nbsp; **Amazon**
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present   
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - Present 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9’s of reliability.
  
-I work for the Amazon Retail Warranties team delivering features to customers with less than 15 ms of latency and more than four 9’s of reliability. My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API’s, to helping design and implement customer facing tooling for Amazon product management. These projects involved working cross-team in order to provide easily expandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate the needs of the entire organization. Languages used are Javascript, Java, Python and Pearl/Mason. Frameworks include React, internal CI pipelines and AWS. 
+My time at Amazon ranged from improving error handling and logging on large systems, to moving front-end business logic behind internal API’s, to helping design and implement customer facing tooling for Amazon product management. These projects involved working cross-team in order to provide easily expandable solutions while serving current customer needs. Teaching me how to, not only manage the needs of my own team, but also integrate the needs of the entire organization. Languages used are Javascript, Java, Python and Pearl/Mason. Frameworks include React, internal CI pipelines and AWS. 
  
 ### &nbsp;&nbsp; **Trilogy Education**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Teachers Assistant** | Sept 2018 - Jan 2019 
