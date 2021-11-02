@@ -1,5 +1,5 @@
 
-<p align="center">gabaldonot@gmail.com ♦ 1.407.437.5584 ♦ otgabaldontorrents.com</p>
+<p align="center">gabaldonot@gmail.com - 1.407.437.5584 - otgabaldontorrents.com</p>
   
 # About Me
 
