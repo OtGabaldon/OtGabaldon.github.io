@@ -4,7 +4,7 @@
 # About Me
 
 <p align="center">
-  <i>Software engineer developing maintainable, low-latency, and scalable web solutions for a variety of consumer and business problems.</i>
+  <i>Full stack engineer with experience building scalable, low-latency web applications and robust APIs.</i>
 </p>
 
 I create systems that can be easily debugged and maintained by other engineers, as well as scaled and localized to various marketplaces. These systems enable businesses to efficiently onboard new use cases with minimal engineering resources. My work has included international product launches using serverless architecture and scalable databases, delivering new features to millions of customers and providing access to billions of data points for internal business metrics. This has empowered data-driven decisions that maximize customer impact.
@@ -17,14 +17,14 @@ I create systems that can be easily debugged and maintained by other engineers, 
   <i>Architect and deploy distributed backend services to create robust APIs.</i>
 </p>
 
-* Assisted in integrating a newly acquired company with the existing UiPath stack.
-* Created an asynchronous outbox to synchronize the authentication platform with the internal resource catalog.
-* Developed an internal metric library facilitating the implementation of Datadog metrics.
-* Enhanced an internal jmespath library with custom functions, enabling parallelization of webhook events.
-* Implemented an authentication abstraction for services, allowing user authentication with scoped permissions.
-* Improved reliability through production testing and increased use of metrics, combined with SLOs, monitors, and alerts.
-* Utilized Java and Typescript as programming languages.
-* Employed tools such as DynamoDB, S3, SQS, Datadog, Docker, Terraform, Helm, Kubernetes, and GitHub Actions.
+* Built distributed backend services and RESTful APIs using Java and TypeScript.
+* Developed internal metric libraries for Datadog integration and observability.
+* Enhanced an internal event processing library to support parallel webhook execution.
+* Implemented an authentication abstraction enabling scoped user permissions.
+* Led service migrations from AWS to Azure using Docker, Terraform, and Helm.
+* Enhanced internal event dispatching in the authentication platform, improving entity discoverability.
+* Tech: Java, TypeScript, Docker, Kubernetes, GitHub Actions, S3, DynamoDB, SQS.
+
 
 ## &nbsp;&nbsp; **Amazon**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Software Development Engineer** | July 2019 - March 2022 
@@ -32,12 +32,11 @@ I create systems that can be easily debugged and maintained by other engineers, 
   <i>Design and deliver features with less than 15 ms latency and over four 9s of reliability.</i>
 </p>
 
-* Collaborated across teams to provide expandable solutions while meeting current customer needs.
-* Enhanced error handling and logging in large-scale systems.
-* Separated and migrated business logic from front-end rendering layers to internal APIs.
-* Designed and implemented product management tools for Amazon digital subscriptions.
-* Utilized languages like JavaScript, Java, Python, and Perl/Mason.
-* Worked with frameworks including React, internal CI pipelines, and AWS services.
+* Designed and implemented front-end components with <15ms latency and 99.99%+ reliability.
+* Refactored frontend rendering logic into internal APIs to improve maintainability.
+* Created AWS Step Function-based workflows for Lambda executions.
+* Developed internal tools for managing Amazon digital subscriptions.
+* Tech: Java, JavaScript, React, Python, Perl/Mason, AWS.
 
 ## &nbsp;&nbsp; **Trilogy Education**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Teaching Assistant** | Sept 2018 - Jan 2019 
@@ -46,9 +45,10 @@ I create systems that can be easily debugged and maintained by other engineers, 
   <i>Assisted the Professor in educating students about data visualization in Python.</i>
 </p>
 
-* Responsibilities included monitoring and answering student questions, grading assignments, and guiding class direction.
-* Topics covered: Python basics, using external libraries for data visualization (Pandas, Numpy, D3.js), and deploying Python modules to public APIs for creating data visualization tools.
-* Specialized in machine learning, providing insights on backpropagation, convolutional networks, and common pitfalls.
+* Assisted students in Python data visualization.
+* Supported deployment of visualization tools to public APIs.
+* Guided students through ML concepts like backpropagation and overfitting.
+* Tech: Pandas, Numpy, and D3.js.
 
 ## &nbsp;&nbsp; **StratEx**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Front End Intern** | Jun 2017 - Aug 2017
@@ -57,18 +57,20 @@ I create systems that can be easily debugged and maintained by other engineers, 
   <i>Managed production code, version control, CI pipelines, and collaborated on a shared codebase.</i>
 </p>
 
-* Implemented configuration pages for business customers in our SaaS HR web app using MVC .NET frameworks.
-* Simplified complex concepts to enhance communication regarding technical concepts with non-technical team members.
+* Developed configuration pages for a SaaS HR web app.
+* Contributed to production codebase, CI pipelines, and cross-team collaboration.
+* Simplified technical concepts for non-technical stakeholders.
+* Tech: .NET, Knockout
 
 # Education
 
 ## &nbsp;&nbsp; **University Of Central Florida**
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Computer Science** | Fall 2016 - Spring 2019
  
- * Member of white paper reading group for Machine Learning methods related to Neural Networks.
- * Improved efficiency in a sound ecology [research package](https://github.com/OtGabaldon/soundecology).
- * Contributed to the development of the first iteration of the [sound ecology tooling package](https://github.com/jonathanbeever/mangrove).
+* Member, ML reading group (Neural Networks focus).
+* Contributed to R-based ecological research tools.
+* GitHub: (soundecology)[https://github.com/OtGabaldon/soundecology], (mangrove)[https://github.com/jonathanbeever/mangrove]
 
 # Outside of Work
 
-Outside of work, I enjoy learning about physics, philosophy, and Machine Learning. I'm also passionate about weightlifting and rock climbing. When not in the gym, I explore the trails and mountains of Colorado, always seeking new adventures.
+Outside of work, I enjoy learning about physics, philosophy, and Machine Learning. I'm also passionate about weightlifting and rock climbing. When not in the gym, I explore different neighborhoods in NYC. 
