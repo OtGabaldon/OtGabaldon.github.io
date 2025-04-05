@@ -69,7 +69,7 @@ I create systems that can be easily debugged and maintained by other engineers, 
  
 * Member, ML reading group (Neural Networks focus).
 * Contributed to R-based ecological research tools.
-* GitHub: (soundecology)[https://github.com/OtGabaldon/soundecology], (mangrove)[https://github.com/jonathanbeever/mangrove]
+* GitHub: [soundecology](https://github.com/OtGabaldon/soundecology), [mangrove](https://github.com/jonathanbeever/mangrove)
 
 # Outside of Work
 
